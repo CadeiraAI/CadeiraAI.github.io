@@ -1,0 +1,22 @@
+
+
+.aboutSection {
+    display: flex;
+    flex-direction: column;
+    gap: 5rem;
+    margin: 10%;
+}
+
+.aboutSection article div{
+    display: flex;
+    flex-direction: row;
+    text-align: left;
+    gap: 5rem;
+}
+
+.aboutSection p {
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}

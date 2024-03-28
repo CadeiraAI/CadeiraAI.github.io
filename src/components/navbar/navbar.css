@@ -1,0 +1,14 @@
+nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-right: 2rem;
+    align-items: center;
+}
+
+nav div {
+    display: flex;
+    flex-direction: row;
+    gap: 5rem;
+    font-size: 1.3rem;
+}

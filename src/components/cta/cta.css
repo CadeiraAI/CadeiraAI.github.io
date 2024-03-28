@@ -1,0 +1,17 @@
+.cta {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+
+.cta h1 {
+    text-align: left;
+    width: 30%;
+}
+
+.cta h1 span{
+    color: #56DF00;
+}

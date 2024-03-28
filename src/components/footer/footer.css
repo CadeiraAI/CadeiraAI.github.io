@@ -1,0 +1,49 @@
+footer {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+footer section {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 2rem;
+    text-align: left;
+}
+
+.conect {
+    color: #56DF00;
+}
+
+.socials {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.socials svg {
+    width: 2rem;
+}
+
+.location h2 {
+    color: #56DF00;
+}
+
+.doubt h1{
+    color: #56DF00;
+}
+
+.emailButton{
+    color: #56DF00;
+    border: 1px solid #56DF00;
+    padding-top: .5rem;
+    padding-bottom: .5rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+.emailButton:hover{
+    color: white;
+    border: 1px solid white;
+}
