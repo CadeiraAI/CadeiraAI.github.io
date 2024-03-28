@@ -15,9 +15,9 @@ function About () {
             <section className="aboutTeam">
                 <article>
                     <div>
-                        <h2 className='miniTitle'>DANTE AND MIGUEL</h2>
+                        <h2 className='miniTitle'>DANTE</h2>
                         <p>
-                            <a href="https://www.linkedin.com/in/dante-m-schrantz/" target='_blank'>Dante Schrantz</a> and <a href="">Miguel Diaz</a>, pursuing studies in Business Administration and Data Analytics at Universidad de Navarra, bring a valuable blend of business acumen and analytical skills. Miguel and Dante has proven their expertise in R and Python while creating various projects at the Universidad de Navarra. They have published a Data Analytics project tying together how people have spent their time in the past 100 years and connecting it with depression and loneliness. Both are also currently working on projects through Python and SQL. Dante has created webpages for different companies and personal projects.   
+                            <a href="https://www.linkedin.com/in/dante-m-schrantz/" target='_blank'>Dante Schrantz</a>, pursuing studies in Business Administration and Data Analytics at Universidad de Navarra, bring a valuable blend of business acumen and analytical skills. Dante has proven his expertise in R and Python while creating various projects at the Universidad de Navarra. He has published a Data Analytics project tying together how people have spent their time in the past 100 years and connecting it with depression and loneliness. He also currently working on projects through Python and SQL. Dante has created webpages for different companies and personal projects.   
                         </p>
                     </div>
                     <img src="" alt="" />
